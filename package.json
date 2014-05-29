@@ -42,6 +42,9 @@
     "async": "~0.2.9",
     "request": "~2.33.0",
     "restify-oauth2-oauthd": "~2.1.0",
+    "grunt": "~0.4.1",
+    "coffee-script": "*",
+    "grunt-cli": "*",
     "ua-parser-js": "~0.6.2"
   },
   "devDependencies": {
@@ -52,7 +55,6 @@
     "grunt-contrib-coffee": "~0.7.0",
     "grunt-contrib-less": "~0.8.1",
     "grunt-concurrent": "~0.4.1",
-    "grunt": "~0.4.1",
     "jayschema": "~0.2.0",
     "jsonlint": "~1.6.0"
   }

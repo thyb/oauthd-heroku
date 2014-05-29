@@ -1,4 +1,4 @@
-exports.host_url = "http://ooauth.herokuapp.com/";
+exports.host_url = "http://oauthd-test2014.herokuapp.com/";
 exports.port = process.env.PORT || 80;
 if (process.env.REDISTOGO_URL) {
     var redis_conf = process.env.REDISTOGO_URL.match(/redis:\/\/(.+):(.+)@(.+):(.+)\//);

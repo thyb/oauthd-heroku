@@ -22,7 +22,6 @@
   },
   "scripts": {
     "install": "echo Please run 'oauthd config' to edit the configuration file.",
-    "prepublish": "grunt",
     "start": "bash ./oauthd.sh start",
     "stop": "bash ./oauthd.sh stop",
     "test": "grunt test && coffee ./test/providers_check.coffee"

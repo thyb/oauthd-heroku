@@ -11,7 +11,6 @@
 /plugins/server.request/**/*.js
 .nodemonignore
 nohup.out
-config.local.js
 *.sublime-*
 /.idea/
 /private
